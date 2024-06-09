@@ -1,4 +1,3 @@
-```markdown
 # RishiAi - Free ChatBot CLI 🤖
 
 `RishiAi` is a command-line interface (CLI) `AI ChatBot` that uses `Google’s Gemini` API to generate natural language responses. You can chat with RishiAi about anything, from images to documents, and have fun and engaging conversations.
