@@ -4,6 +4,7 @@
 
 ## Quick Demo
 
+https://github.com/MAVRICK-1/Rishi-AI/assets/146999057/04dea2f0-ca06-419f-a8f8-10435c244ea6
 
 ## Installation:
 Installing RishiAi is simple. For global access, execute one of the commands below:
